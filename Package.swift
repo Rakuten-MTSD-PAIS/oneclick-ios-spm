@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "OneClick",
-            url: "https://github.com/Rakuten-MTSD-PAIS/oneclick-ios-spm/releases/download/2.600.4/OneClick.xcframework.zip",
-            checksum: "299201b70645cf8e184b9e75c81f0f884d9ce067dcb320a28fcdcece317dd517"
+            url: "https://github.com/Rakuten-MTSD-PAIS/oneclick-ios-spm/releases/download/2.600.19/OneClick.xcframework.zip",
+            checksum: "34b2db39949b23974c15ad80e4a528c0366d0940fdc8e47ad6702dde991a9219"
         )
     ]
 )
